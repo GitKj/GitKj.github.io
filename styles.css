@@ -90,6 +90,8 @@
   
   .img-text-wrapper .subtitle a {
     text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
   }
 
   .logo-wrapper img {
@@ -204,7 +206,4 @@ body,html {
   
   #lab_social_icon_footer #social-em:hover {
     color: #f39c12;
-  }
-  a {
-     text-decoration: none !important;
   }
