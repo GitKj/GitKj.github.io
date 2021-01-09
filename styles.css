@@ -201,3 +201,6 @@ body,html {
   #lab_social_icon_footer #social-em:hover {
     color: #f39c12;
   }
+  a {
+     text-decoration: none !important;
+  }
