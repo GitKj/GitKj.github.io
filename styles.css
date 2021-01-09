@@ -87,17 +87,6 @@
     color: white;
   }
   
-  .img-text-wrapper .subtitle a {
-    text-decoration: none;
-    transition: 0.3s;
-    color: white;
-  }
-
-  .img-text-wrapper:hover .subtitle a {
-    font-family: 'Open Sans', sans-serif;
-    color: transparent;
-  }
-
   .logo-wrapper img {
     width: 50%;
     margin-bottom: 20px;
