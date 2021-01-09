@@ -89,13 +89,14 @@
   
   .img-text-wrapper .subtitle a {
     text-decoration: none;
-    color: transparent;
     transition: 0.3s;
+    color: white;
   }
 
   .img-text-wrapper:hover .subtitle a {
     font-family: 'Open Sans', sans-serif;
     color: white;
+    color: transparent;
   }
 
   .logo-wrapper img {
