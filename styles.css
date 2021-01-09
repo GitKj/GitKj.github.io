@@ -85,13 +85,17 @@
   .img-text-wrapper:hover .subtitle {
     font-family: 'Open Sans', sans-serif;
     color: white;
-    /*font-weight: 600;*/
   }
   
   .img-text-wrapper .subtitle a {
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
     color: white;
+  }
+
+  .img-text-wrapper:hover .subtitle a {
+    transition: 0.3s;
+    color: transparent;
   }
 
   .logo-wrapper img {
