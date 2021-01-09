@@ -88,6 +88,10 @@
     /*font-weight: 600;*/
   }
   
+  .img-text-wrapper .subtitle a {
+    text-decoration: none;
+  }
+
   .logo-wrapper img {
     width: 50%;
     margin-bottom: 20px;
